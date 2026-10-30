@@ -32,7 +32,7 @@ Run the following command in your terminal:
 
 **python guess-number.py**
 
-###Course Information
+### Course Information
 
 - Course: Computer Workshop
 - Project: Project 1
