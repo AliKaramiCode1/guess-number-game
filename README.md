@@ -1,13 +1,13 @@
 
-#🎮 Number Guessing Game
+# 🎮 Number Guessing Game
 
-##Project Description
+## Project Description
 
 This project is implemented using Python as part of the Computer Workshop course.
 
 The goal of the game is to guess a randomly generated number between 1 and 100 within a maximum of 5 attempts.
 
-###Features
+### Features
 
 - Generates a random number between 1 and 100.
 - Limits the player to 5 attempts.
@@ -19,12 +19,12 @@ The goal of the game is to guess a randomly generated number between 1 and 100 w
 - Allows the player to restart the game.
 - Validates user input to prevent invalid entries.
 
-###Technologies Used
+### Technologies Used
 
 - Python
 - Random Module
 
-###How to Run
+### How to Run
 
 Make sure Python is installed on your computer.
 
